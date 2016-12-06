@@ -1,6 +1,6 @@
 var
 http = require('http'),
-md = require('../md-plus'),
+md = require('md-plus'),
 
 server = http.createServer(function(req, res) {
 	var data = md.renderFile('./README.md');
