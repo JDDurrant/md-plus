@@ -4,7 +4,7 @@
   "description": "Markdown+ : Render Markdown strings and files",
   "main": "index.js",
   "scripts": {
-    "test": "npm test"
+    "test": "node test"
   },
   "repository": {
     "type": "git",
@@ -20,5 +20,9 @@
   "bugs": {
     "url": "https://github.com/JDDurrant/md-plus/issues"
   },
-  "homepage": "https://github.com/JDDurrant/md-plus#readme"
+  "homepage": "https://github.com/JDDurrant/md-plus#readme",
+  "dependencies": {
+    "marked": "^0.3.6",
+    "read-file": "^0.2.0"
+  }
 }
