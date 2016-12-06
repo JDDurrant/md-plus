@@ -1,0 +1,24 @@
+{
+  "name": "md-plus",
+  "version": "1.0.0",
+  "description": "Markdown+ : Render Markdown strings and files",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JDDurrant/md-plus.git"
+  },
+  "keywords": [
+    "markdown",
+    "html",
+    "render"
+  ],
+  "author": "Jack Durrant",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/JDDurrant/md-plus/issues"
+  },
+  "homepage": "https://github.com/JDDurrant/md-plus#readme"
+}
